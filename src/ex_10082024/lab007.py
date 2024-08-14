@@ -1,0 +1,1 @@
+print(max(1,55,3.14, "Vinita"))

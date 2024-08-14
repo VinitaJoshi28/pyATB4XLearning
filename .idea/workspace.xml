@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6210398c-8bc8-48f6-8a3e-993795fdf23b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/Lab002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6210398c-8bc8-48f6-8a3e-993795fdf23b" name="Changes" comment="lab file2 added">
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/LAB001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/LAB001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +33,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "VinitaJoshi28"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VinitaJoshi28&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/VinitaJoshi28/pyATB4XLearning.git",
-    "accountId": "f103653e-07c4-4d8d-88a1-2f742da782ac"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VinitaJoshi28/pyATB4XLearning.git&quot;,
+    &quot;accountId&quot;: &quot;f103653e-07c4-4d8d-88a1-2f742da782ac&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2kPHQ7vhi0cmIcZaQQqW12yVWT4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,6 +60,17 @@
   "keyToString": {
     "Python.LAB001.executor": "Run",
     "Python.Lab002.executor": "Run",
+    "Python.lab003.executor": "Run",
+    "Python.lab004.executor": "Run",
+    "Python.lab005.executor": "Run",
+    "Python.lab006.executor": "Run",
+    "Python.lab007.executor": "Run",
+    "Python.lab008.executor": "Run",
+    "Python.lab009.executor": "Run",
+    "Python.lab010.executor": "Run",
+    "Python.lab011.executor": "Run",
+    "Python.lab012.executor": "Run",
+    "Python.lab013.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -72,6 +91,19 @@
       <option name="presentableId" value="Default" />
       <updated>1723178273563</updated>
     </task>
+    <task id="LOCAL-00001" summary="lab file2 added">
+      <option name="closed" value="true" />
+      <created>1723180211621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723180211621</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab file2 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab file2 added" />
   </component>
 </project>
