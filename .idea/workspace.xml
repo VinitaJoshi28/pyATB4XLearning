@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6210398c-8bc8-48f6-8a3e-993795fdf23b" name="Changes" comment="lab file2 added">
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/lab013.py" afterDir="false" />
+    <list default="true" id="6210398c-8bc8-48f6-8a3e-993795fdf23b" name="Changes" comment="all the files for the Aug10 are added">
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab_025.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +70,16 @@
     "Python.lab011.executor": "Run",
     "Python.lab012.executor": "Run",
     "Python.lab013.executor": "Run",
+    "Python.lab014.executor": "Run",
+    "Python.lab015.executor": "Run",
+    "Python.lab016.executor": "Run",
+    "Python.lab017.executor": "Run",
+    "Python.lab018.executor": "Run",
+    "Python.lab019.executor": "Run",
+    "Python.lab020.executor": "Run",
+    "Python.lab021.executor": "Run",
+    "Python.lab024.executor": "Run",
+    "Python.lab_025.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -99,11 +108,20 @@
       <option name="project" value="LOCAL" />
       <updated>1723180211621</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="all the files for the Aug10 are added">
+      <option name="closed" value="true" />
+      <created>1723669729783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723669729784</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab file2 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab file2 added" />
+    <MESSAGE value="all the files for the Aug10 are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="all the files for the Aug10 are added" />
   </component>
 </project>
