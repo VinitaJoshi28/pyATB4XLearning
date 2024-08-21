@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6210398c-8bc8-48f6-8a3e-993795fdf23b" name="Changes" comment="Homework Task1 and Task2; 13 Aug 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab035.py" afterDir="false" />
+    <list default="true" id="6210398c-8bc8-48f6-8a3e-993795fdf23b" name="Changes" comment="updated Homework Task3,Task4 and Task5; 17 Aug 2024">
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/task6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Home Work Task  13th Aug 2024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Home Work Task  13th Aug 2024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Home Work Task 2  13th Aug 2024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Home Work Task 2  13th Aug 2024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +57,7 @@
     "Python.Homework Task1.executor": "Run",
     "Python.LAB001.executor": "Run",
     "Python.Lab002.executor": "Run",
+    "Python.cc.executor": "Run",
     "Python.lab003.executor": "Run",
     "Python.lab004.executor": "Run",
     "Python.lab005.executor": "Run",
@@ -94,8 +84,13 @@
     "Python.lab031.executor": "Run",
     "Python.lab032.executor": "Run",
     "Python.lab033.executor": "Run",
+    "Python.lab034.executor": "Run",
     "Python.lab035.executor": "Run",
     "Python.lab_025.executor": "Run",
+    "Python.task3.executor": "Run",
+    "Python.task4.executor": "Run",
+    "Python.task5.executor": "Run",
+    "Python.task6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -140,7 +135,31 @@
       <option name="project" value="LOCAL" />
       <updated>1724121356843</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated Homework Task1 and Task2; 13 Aug 2024">
+      <option name="closed" value="true" />
+      <created>1724267388940</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724267388940</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updated Homework Task1 and Task2; 13 Aug 2024">
+      <option name="closed" value="true" />
+      <created>1724267503242</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724267503242</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated Homework Task3,Task4 and Task5; 17 Aug 2024">
+      <option name="closed" value="true" />
+      <created>1724277644700</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724277644700</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +177,8 @@
     <MESSAGE value="lab file2 added" />
     <MESSAGE value="all the files for the Aug10 are added" />
     <MESSAGE value="Homework Task1 and Task2; 13 Aug 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework Task1 and Task2; 13 Aug 2024" />
+    <MESSAGE value="updated Homework Task1 and Task2; 13 Aug 2024" />
+    <MESSAGE value="updated Homework Task3,Task4 and Task5; 17 Aug 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated Homework Task3,Task4 and Task5; 17 Aug 2024" />
   </component>
 </project>
