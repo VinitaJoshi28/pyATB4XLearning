@@ -20,5 +20,9 @@
 user_input = int(input("Enter your age"))
 if (user_input> 18):
     print("go goa")
-else:
-    print("go home")
+else:print("go home")
+
+
+print("i will go goa" if int(input("Enter my age")) else "stay back")
+
+print("i will go"if int(input("enter my age"))>=18 else "stay back")
