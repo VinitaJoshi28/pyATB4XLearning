@@ -4,9 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6210398c-8bc8-48f6-8a3e-993795fdf23b" name="Changes" comment="updated Homework Task3,Task4 and Task5; 17 Aug 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/task6.py" afterDir="false" />
+    <list default="true" id="6210398c-8bc8-48f6-8a3e-993795fdf23b" name="Changes" comment="updated Homework Task6; 17 Aug 2024">
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/task8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/task9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/task10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/task11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyATB4XLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyATB4XLearning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/task6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,15 +112,50 @@
     "Python.lab033.executor": "Run",
     "Python.lab034.executor": "Run",
     "Python.lab035.executor": "Run",
+    "Python.lab036.executor": "Run",
+    "Python.lab038.executor": "Run",
+    "Python.lab039.executor": "Run",
+    "Python.lab040.executor": "Run",
+    "Python.lab045.executor": "Run",
+    "Python.lab046.executor": "Run",
+    "Python.lab047.executor": "Run",
+    "Python.lab049.executor": "Run",
+    "Python.lab050.executor": "Run",
+    "Python.lab051.executor": "Run",
+    "Python.lab052.executor": "Run",
+    "Python.lab053.executor": "Run",
+    "Python.lab054.executor": "Run",
+    "Python.lab055.executor": "Run",
+    "Python.lab056.executor": "Run",
+    "Python.lab058.executor": "Run",
+    "Python.lab059.executor": "Run",
+    "Python.lab060.executor": "Run",
+    "Python.lab41.executor": "Run",
+    "Python.lab48.executor": "Run",
     "Python.lab_025.executor": "Run",
+    "Python.task11.executor": "Run",
     "Python.task3.executor": "Run",
     "Python.task4.executor": "Run",
     "Python.task5.executor": "Run",
     "Python.task6.executor": "Run",
+    "Python.task7.executor": "Run",
+    "Python.task8.executor": "Run",
+    "Python.task9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/manojjoshi/PycharmProjects/pyATB4XLearning/src/ex_22082024",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex_22082024" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex_22082024" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -159,7 +220,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724277644700</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated Homework Task6; 17 Aug 2024">
+      <option name="closed" value="true" />
+      <created>1724278423462</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724278423462</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated Homework Task6; 17 Aug 2024">
+      <option name="closed" value="true" />
+      <created>1724278462488</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724278462488</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +256,7 @@
     <MESSAGE value="Homework Task1 and Task2; 13 Aug 2024" />
     <MESSAGE value="updated Homework Task1 and Task2; 13 Aug 2024" />
     <MESSAGE value="updated Homework Task3,Task4 and Task5; 17 Aug 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated Homework Task3,Task4 and Task5; 17 Aug 2024" />
+    <MESSAGE value="updated Homework Task6; 17 Aug 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated Homework Task6; 17 Aug 2024" />
   </component>
 </project>

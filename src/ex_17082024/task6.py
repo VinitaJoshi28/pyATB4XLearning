@@ -5,6 +5,9 @@ number=int(input("Enter a number\n"))
 cube=math.pow(number,3)
 cube1=number*number*number
 cube2=pow(number,3)
+cube3=number**3
 print("The cube of the number is : ",cube)
 print("The cube of the number is : ", cube1)
 print("The cube of the number is : ", cube2)
+print("The cube of the number is : ", cube3)
+#print(f"cube is {cube}")
