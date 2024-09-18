@@ -5,9 +5,14 @@
 # 1. i/p = one number -->int o/p --> series
 # 2 rough logic --> a= 0, b=1 , b= b+a
 
-series_number = int(input("enter a number\n"))
-for series_number in range(0, series_number + 1):
-    a, b = 0, 1
-a, b = b, a + b
+fib = int(input("enter a number\n"))
+a = 0
+b = 1
+if (fib == 0):
+    print(0)
+elif (fib == 1):
+    print(0)
+else:
+    for i in range(2, fib + 1):
 
-print(a, b)
+        print(f"fibonacci is {fib}")
