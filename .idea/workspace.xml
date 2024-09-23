@@ -4,47 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6210398c-8bc8-48f6-8a3e-993795fdf23b" name="Changes" comment=" Homework Task7,8 and 9; 20 Aug 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/lab094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/lab095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/lab098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/lab099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/lab100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/lab101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/lab102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/lab103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/lab104.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pyATB4XLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyATB4XLearning.iml" afterDir="false" />
+    <list default="true" id="6210398c-8bc8-48f6-8a3e-993795fdf23b" name="Changes" comment="Class till 29 Aug 2024">
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/task12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/LAB001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/LAB001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_22082024/task10.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_22082024/task10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_22082024/task11.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_22082024/task11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,11 +150,15 @@
     "Python.lab102.executor": "Run",
     "Python.lab103.executor": "Run",
     "Python.lab104.executor": "Run",
+    "Python.lab107.executor": "Run",
+    "Python.lab108.executor": "Run",
+    "Python.lab109.executor": "Run",
     "Python.lab41.executor": "Run",
     "Python.lab48.executor": "Run",
     "Python.lab_025.executor": "Run",
     "Python.task10.executor": "Run",
     "Python.task11.executor": "Run",
+    "Python.task12.executor": "Run",
     "Python.task3.executor": "Run",
     "Python.task4.executor": "Run",
     "Python.task5.executor": "Run",
@@ -340,7 +310,31 @@
       <option name="project" value="LOCAL" />
       <updated>1724710662995</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Class till 29 Aug 2024">
+      <option name="closed" value="true" />
+      <created>1726695353141</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726695353141</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Class till 29 Aug 2024">
+      <option name="closed" value="true" />
+      <created>1726695393416</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726695393416</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Class till 29 Aug 2024">
+      <option name="closed" value="true" />
+      <created>1726695407761</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726695407761</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -362,17 +356,7 @@
     <MESSAGE value="updated Homework Task3,Task4 and Task5; 17 Aug 2024" />
     <MESSAGE value="updated Homework Task6; 17 Aug 2024" />
     <MESSAGE value=" Homework Task7,8 and 9; 20 Aug 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Homework Task7,8 and 9; 20 Aug 2024" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_29082024/lab104.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Class till 29 Aug 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class till 29 Aug 2024" />
   </component>
 </project>
